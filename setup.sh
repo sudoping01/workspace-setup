@@ -188,7 +188,7 @@ main() {
     install_i3_specific_version || exit 1
     
     
-    PACKAGES="i3lock xautolock python3-pip lightdm git vim xterm fonts-dejavu nautilus nodejs brightnessctl wget nmap stellarium"
+    PACKAGES="i3lock xautolock python3-pip lightdm git vim xterm fonts-dejavu nautilus nodejs brightnessctl maim xdotool wget nmap stellarium"
     for pkg in $PACKAGES; do
         install_package $pkg
     done
