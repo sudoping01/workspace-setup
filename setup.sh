@@ -30,7 +30,7 @@ print_header() {
     echo "║                                                                   ║"
     echo "╠═══════════════════════════════════════════════════════════════════╣"
     echo "║                                                                   ║"
-    echo -e "║  ${GREEN}Author:${CYAN}  Sed                                                     ║"
+    echo -e "║  ${GREEN}Author:${CYAN}  Sudoping01                                              ║"
     echo -e "║  ${GREEN}Date:${CYAN}    $(date '+%Y-%m-%d')                                              ║"
     echo -e "║  ${GREEN}System:${CYAN}  $(uname -s) $(uname -r)                                      ║"
     echo -e "║  ${GREEN}i3 Ver:${CYAN}  ${I3_VERSION} (${I3_RELEASE_DATE})                               ║"
